@@ -1,0 +1,1 @@
+C:\Users\DOUGLAS\OneDrive\Área\ de\ Trabalho\rust_live\trabalho_faculdade_rust\megastore_search\target\debug\megastore_search.exe: C:\Users\DOUGLAS\OneDrive\Área\ de\ Trabalho\rust_live\trabalho_faculdade_rust\megastore_search\src\main.rs
