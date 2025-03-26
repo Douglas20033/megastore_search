@@ -1,30 +1,30 @@
-# 🔍 Sistema de Busca MegaStore
+# Sistema de Busca MegaStore
 
 Este projeto implementa um sistema de busca otimizado utilizando **Rust** e **tabelas hash** para melhorar a eficiência da pesquisa em um catálogo de produtos.
 
-## 🚀 Como executar o projeto
+## Como executar o projeto
 
-1️⃣ **Instale o Rust**  
+1 **Instale o Rust**  
 Baixe e instale pelo site oficial:  
 🔗 [https://www.rust-lang.org/](https://www.rust-lang.org/)  
 
-2️⃣ **Clone este repositório:**  
+2 **Clone este repositório:**  
 ```sh
 git clone https://github.com/Douglas20033/megastore_search.git
 cd megastore_search
 ```
 
-3️⃣ **Execute o sistema:**  
+3 **Execute o sistema:**  
 ```sh
 cargo run
 ```
 
-4️⃣ **Testar o sistema:**  
+4 **Testar o sistema:**  
 ```sh
 cargo test
 ```
 
-## 📂 Estrutura do Projeto
+## Estrutura do Projeto
 
 ```
 megastore_search/
@@ -34,7 +34,7 @@ megastore_search/
 │-- README.md        # Documentação
 ```
 
-## ✅ **Comandos Git Utilizados**
+## **Comandos Git Utilizados**
 ```sh
 git init
 git add .
