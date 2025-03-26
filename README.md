@@ -44,9 +44,9 @@ git remote add origin https://github.com/Douglas20033/megastore_search.git
 git push -u origin main
 ```
 
-## 🎯 Objetivo do Projeto
+## Objetivo do Projeto
 Este projeto visa criar uma busca eficiente para catálogos de produtos, melhorando a experiência do usuário.  
 
 ---
-🚀 **Criado para fins acadêmicos.**
+**Criado para fins acadêmicos.**
 
